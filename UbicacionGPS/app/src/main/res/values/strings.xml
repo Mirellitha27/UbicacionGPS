@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UbicacionGPS</string>
+    <string name="localizacion_agregada">Localización agregada</string>
+    <string name="miDireccion">Mi direccion es</string>
+    <string name="direccionActual">Mi ubicacion actual es:</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="gpsDesactivado">GPS Desactivado</string>
+</resources>
